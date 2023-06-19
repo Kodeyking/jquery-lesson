@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("h1").click(function() {
+    $('.help').click(function() {
         alert("This is a heading.");
       });
       
